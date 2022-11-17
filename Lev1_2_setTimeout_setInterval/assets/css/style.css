@@ -1,0 +1,29 @@
+body {
+    background-color: #f7a680
+}
+
+body div {
+    max-width: 30%;
+    margin: 1rem auto;
+    border: 2px solid black;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.zeit {
+    background-color: #fa877f;
+    width: 100px;
+    margin: 5px auto;
+    color: #dedef0;
+    border-radius: 5px;
+    padding: 10px 5px
+}
+
+button {
+    background-color: #fa877f;
+    color: #dedef0;
+    padding: 5px;
+    width: 50px;
+    margin: 5px 25px;
+    border-radius: 5px;
+}
